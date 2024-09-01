@@ -1,0 +1,57 @@
+site_name: Anthroid
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - navigation.footer
+  - toc.integrate
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - content.code.annotation
+  - content.code.copy
+  locale: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: black
+      accent: red
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: grey
+      accent: red
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/anthrobo
+      name: Anthrobo on X
+    - icon: fontawesome/brands/github
+      link: https://github.com/Anthrobotics
+      name: Anthrobotics GitHub
+  generator: false
+copyright: Copyright &copy; 2024 <a href="https://anthrobotics.ca" target="_blank" rel="noopener">Anthrobotics</a>

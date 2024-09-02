@@ -1,4 +1,4 @@
 # Start
-## Welcome to the Anthroid project
-## Low-cost open-source humanoid robots
+Welcome to the Anthro Docs
 
+Here you will find documentation on our projects, how to contribute, and more.

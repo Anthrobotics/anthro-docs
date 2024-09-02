@@ -1,5 +1,6 @@
 site_name: Anthrobotics Documentation
 theme:
+  logo: anthro-logo-400x400.jpg
   name: material
   features:
   - navigation.tabs

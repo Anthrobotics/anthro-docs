@@ -1,5 +1,7 @@
 # Mission
 
 ## Overview
-Sample Text
-Test from VS Code
+
+Develop, build, and ship hyper-affordable anthros. Repeat.
+
+## 

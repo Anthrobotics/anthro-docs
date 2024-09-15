@@ -8,9 +8,9 @@ Work involving the parts that make the robots function. Here are open positions 
 
 ### Hardware Engineers and Technologists
 
-***Love working with mechanical systems and mechatronics? Join our hardware team!***
+***Experienced in mechanical engineering? Love working with mechanical systems and mechatronics? Join our hardware team!***
 
-**What you'll be doing**: 
+**What you'll be doing:** 
 
 - Design, model, build and test mechanical subassemblies 
 
@@ -26,9 +26,9 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.
 
 ### Software Engineers and Technologists
 
-***Love working with software, firmware, and embedded systems? Join our software team!***
+***Experienced in software engineering? Love working with software, firmware, and embedded systems? Join our software team!***
 
-**What you'll be doing:**:
+**What you'll be doing:**
 
 - Write, test and debug software systems
 
@@ -40,9 +40,40 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.
 
 - Develop embedded control systems ICW the electronics team
 
-### AI / ML Engineers + Technologists
+For related ongoing tasks, see the [TO-DO](TO-DO.md#software) page.
 
-### Roboticists / Hobbyists
+### AI & ML Engineers + Technologists
+
+***Experienced in AI & ML research? Want to build embodied synthetic intelligence (SI)? Join our SI team!***
+
+**What you'll be doing:**
+
+- Develop policies for humanoid robots ICW the software team
+
+- Work with the software team on MPC for humanoids
+
+- Develop, train, build and deploy distributed SI systems across hundreds of anthro nodes
+
+- Develop, train, build and deploy open-source, uncensored and unrestricted SI
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md#SI) page.
+
+### Roboticists
+
+***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our hardware team!
+
+**What you'll be doing:**
+
+- Offer expertise and knowledge in robotic systems
+
+- Develop robotic systems ICW the hardware and software teams
+
+- Help mentor new junior team members in robotics development
+
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md) page.
+
+### Hobbyists & Hackers
 
 ### Nanosystems Engineers and Technologists 
 

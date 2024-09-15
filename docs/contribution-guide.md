@@ -1,6 +1,6 @@
 # Contribution Guide
 
-We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone. See open position below, and what each role entails. 
+We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone. See open position below, what each role entails, and how to get started. 
 
 ## Robotics Development
 
@@ -33,6 +33,18 @@ This work goes hand-in-hand with the hardware of the robots. Here are open posit
 ### 2D and 3D Digital Artists
 
 ### Industrial Designers
+
+## Marketing and Social Media
+
+### Influencers
+
+### Content Creators
+
+### Brand Designers
+
+## Investors
+
+***We're raising!*** If you're a VC who shares our passion and vision, reach out to us.
 
 ## Legal
 

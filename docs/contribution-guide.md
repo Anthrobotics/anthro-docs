@@ -11,10 +11,15 @@ Work involving the parts that make the robots function. Here are open positions 
 ***Love working with mechanical systems and mechatronics? Join our hardware team!***
 
 **What you'll be doing**: 
+
 - Design, model, build and test mechanical subassemblies 
+
 - Design the body of the robot 
+
 - Perform FEA and FEM of mechanical parts 
+
 - Integrate mechanical subassemblies into the body 
+
 - Integrate and test direct drive actuators 
 
 For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.

@@ -14,3 +14,6 @@ We welcome any and all to join us on our endeavor of bringing embodied AGI of al
 
 If you want to help, please see the [contribution guide](contribution-guide.md) to see how you can leave your mark in history.
 
+## Requirements 
+
+Humanoids must meet certain criteria to be considered an Anthro. See the [requirements](requirements.md) page for more details.

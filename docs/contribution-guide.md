@@ -2,6 +2,10 @@
 
 We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone! See open position below, what each role entails, and how to get started. 
 
+As our team grows, we will look at offering permanent / full-time job positions on our team for various roles.
+
+*Note: Roles and position descriptions will be updated on a rolling basis. :)*
+
 ## Robotics Development
 
 Work involving the parts that make the robots function. Here are open positions for those who want to get involved in developing and building the hardware and software for Anthros. 
@@ -60,7 +64,7 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#SI) page.
 
 ### Roboticists
 
-***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our hardware team!
+***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our team!
 
 **What you'll be doing:**
 
@@ -74,6 +78,22 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#SI) page.
 For related ongoing tasks, see the [TO-DO](TO-DO.md) page.
 
 ### Hobbyists & Hackers
+
+***Do you have experience in tinkering with mechatronics or robotics projects? Love hacking things? Love building *and* breaking things even more? Want to be part of the biggest project of your life? Join our team!***
+
+**What you'll be doing:**
+
+- Working ICW our various teams to complete tasks and build the robots
+
+- Find new and creative ways to use anthros
+
+- Test out bleeding edge versions of DIY kits before public release, and provide feedback
+
+- Find ways to exploit and patch vulnerabilities in designs before public release
+
+- Conduct both destructive and non-destructive testing of designs prior to public release
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md#hacker) page.
 
 ### Nanosystems Engineers and Technologists 
 

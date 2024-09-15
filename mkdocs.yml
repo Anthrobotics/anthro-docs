@@ -1,6 +1,6 @@
 site_name: Anthro Docs
 theme:
-  logo: anthro-logo-400x400-tbg.jpg
+  logo: anthro-logo-400x400-tbg.png
   name: material
   features:
   - navigation.tabs

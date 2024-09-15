@@ -1,4 +1,4 @@
-# Start
+# Home
 
 Welcome to the Anthro Docs
 
@@ -12,7 +12,7 @@ See our [mission](mission.md), and our [goals](goals.md).
 
 We welcome any and all to join us on our endeavor of bringing embodied AGI of all forms to everyone.
 
-If you want to help, please see the [contribution guide](contribution-guide.md) to see how you can leave your mark in history.
+If you want to help, please see the [contribution guide](contribution-guide.md) to see how you can be part of the biggest robotics project of our time.
 
 ## Requirements 
 

@@ -64,7 +64,7 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#SI) page.
 
 ### Roboticists
 
-***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our team!
+***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our team!***
 
 **What you'll be doing:**
 
@@ -79,7 +79,7 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md) page.
 
 ### Hobbyists & Hackers
 
-***Do you have experience in tinkering with mechatronics or robotics projects? Love hacking things? Love building *and* breaking things even more? Want to be part of the biggest project of your life? Join our team!***
+***Do you have experience in tinkering with mechatronics or robotics projects? Love hacking things? Love building and breaking things even more? Want to be part of the biggest project of your life? Join our team!***
 
 **What you'll be doing:**
 
@@ -96,6 +96,22 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md) page.
 For related ongoing tasks, see the [TO-DO](TO-DO.md#hacker) page.
 
 ### Nanosystems Engineers and Technologists 
+
+***Have experience in the nanotechnology field and want to apply it to humanoid robotics? Join our nanosystems team!***
+
+**What you'll be doing:**
+
+- Develop ablative armor for electronic systems and structural components
+
+- Work on developing and building microfluidic systems 
+
+- Develop safe and power-dense batteries ICW the electrical team
+
+- Develop radiation-hardened shielding for electronics
+
+- Develop ceramo-plastic armor for humanoid robots 
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md#nano) page.
 
 ### Electronics Engineers and Technologists
 

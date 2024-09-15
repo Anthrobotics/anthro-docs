@@ -26,6 +26,20 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.
 
 ### Software Engineers and Technologists
 
+***Love working with software, firmware, and embedded systems? Join our software team!***
+
+**What you'll be doing:**:
+
+- Write, test and debug software systems
+
+- Harness AI copilots to develop software solutions
+
+- Translate URDF into simulation traning environments (MuJoCo, Gazebo)
+
+- Develop GUIs and software-based HMIs for interfacing and interacting with robots
+
+- Develop embedded control systems ICW the electronics team
+
 ### AI / ML Engineers + Technologists
 
 ### Roboticists / Hobbyists

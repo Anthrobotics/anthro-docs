@@ -1,6 +1,7 @@
 site_name: Anthro Docs
 theme:
-  logo: (anthro-logo-400x400-tbg.png){width = "400"}
+  #logo: anthro-logo-400x400-tbg.png
+  logo: <img src="anthro-logo-400x400-tbg.png" alt="logo" width="200"/>
   favicon: anthro-logo-400x400.jpg
   name: material
   features:

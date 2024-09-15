@@ -115,6 +115,22 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#nano) page.
 
 ### Electronics Engineers and Technologists
 
+***Experienced in working with electronics? Familiar with PCB design and assembly? Join our electronics team!***
+
+**What you'll be doing:**
+
+- Designing, assembling and testing PCBs
+
+- Work ICW the software team to develop embedded systems 
+
+- Design and build cutting-edge soft sensors for humanoid robots
+
+- Design and build an integrated BMS for custom batteries
+
+- Wire data buses onboard humanoid robots
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md#electronics) page.
+
 ### Electrical Engineers and Technologists
 
 ### Motor / Drive System Techs
@@ -153,7 +169,7 @@ Folks that play an important role in making sure we stay by the books, while hav
 
 ### Privacy Experts
 
-## Government Liason
+## Defense 
 
 Folks knowledgable in defense and aerospace (or for helping us land that sweet defense contract). 
 

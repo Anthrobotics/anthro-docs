@@ -1,6 +1,6 @@
 # Contribution Guide
 
-We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone. See open position below, what each role entails, and how to get started. 
+We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone! See open position below, what each role entails, and how to get started. 
 
 ## Robotics Development
 
@@ -14,7 +14,7 @@ Work involving the parts that make the robots function. Here are open positions 
 
 ### Roboticists / Hobbyists
 
-### NanosystemsEngineers and Technologists 
+### Nanosystems Engineers and Technologists 
 
 ### Electronics Engineers and Technologists
 

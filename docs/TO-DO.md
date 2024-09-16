@@ -8,7 +8,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 
 - [ ] Task *not* started
 - [X] Task in progress
-- [X] ~~ Task complete ~~
+- ~~[X] Task complete~~
 
 ## Robotics
 

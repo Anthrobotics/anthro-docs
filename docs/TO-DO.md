@@ -7,7 +7,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 **Guide** 
 
 - [ ] Task not started
-- [ ] **Task in progress**
+- [ ] ***Task in progress***
 - [X] Task complete
 
 ## Robotics

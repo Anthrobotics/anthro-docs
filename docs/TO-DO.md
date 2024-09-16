@@ -12,7 +12,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 
 ## Robotics
 
-### Hardware
+### hardware
 
 - [ ] Design tendon-driven artificial muscles
 - [ ] Build and test artificial muscles
@@ -27,7 +27,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Design, build and test tail
 - [ ] Export assemblies to URDF
 
-### Software
+### software
 
 - [ ] Walking / gait controller
 - [ ] Implement MPC
@@ -39,7 +39,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Integrate sensors into controller
 - [ ] Pick a primary language to use (K-scale's KLang is recommended)
 
-### AI & ML
+### SI
 
 - [ ] Implement MPC
 - [ ] Implement VLM
@@ -56,7 +56,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Determine edge computer requirements
 - [ ] Source suitable edge computers for deployable agents
 
-### Electronics
+### electronics
 
 - [ ] Design, build and test BMS
 - [ ] Design, build and test PDB

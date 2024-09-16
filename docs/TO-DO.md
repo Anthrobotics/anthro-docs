@@ -15,22 +15,16 @@ You can find your team's respective tasks in each section. Feel free to assist o
 ### Hardware
 
 - [ ] Design tendon-driven artificial muscles
-- [ ] Build artificial muscles
+- [ ] Build and test artificial muscles
 - [X] Identify potential torque motors for use with muscles
-- [ ] Design plantigrade legs
-- [ ] Build plantigrade legs
-- [ ] Design digitigrade legs
-- [ ] Build digitigrade legs
-- [ ] Design hands
-- [ ] Build hands
-- [ ] Design arms
-- [ ] Build arms
-- [ ] Design torso
-- [ ] Build torso
-- [ ] Design endo head
-- [ ] Build endo head
-- [ ] Design tail
-- [ ] Build tail
+- [ ] Procure torque motors
+- [ ] Design, build and test plantigrade legs
+- [ ] Design, build and test digitigrade legs
+- [ ] Design, build and test hands
+- [ ] Design, build and test arms
+- [ ] Design, build and test torso
+- [ ] Design, build and test endo head
+- [ ] Design, build and test tail
 - [ ] Export assemblies to URDF
 
 ### Software
@@ -43,6 +37,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Web interface for URDF > similar to K-Scale's 
 - [ ] HMI for issuing commands (phone app or GUI)
 - [ ] Integrate sensors into controller
+- [ ] Pick a primary language to use (K-scale's KLang is recommended)
 
 ### AI & ML
 

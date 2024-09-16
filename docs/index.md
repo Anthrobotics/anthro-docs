@@ -6,7 +6,7 @@ Here you will find documentation on our projects, how to get involved, and more.
 
 Let's build the future of open-source robotics together.
 
-See our [mission](mission.md), our [goals](goals.md), and [TO-DO list](to-do.md).
+See our [mission](mission.md), our [goals](goals.md), and [TO-DO list](TO-DO.md).
 
 ## Contributing
 

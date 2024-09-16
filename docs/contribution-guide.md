@@ -171,13 +171,11 @@ Folks that play an important role in making sure we stay by the books, while hav
 
 ## Defense 
 
-Folks knowledgable in defense and aerospace (or for helping us land that sweet defense contract). 
+Folks knowledgable in defense and aerospace, who can help make anthros robust and reliable. 
 
 ### Drone / UAS operators
 
 ### Drone / UAS techs
-
-### Infantrymen
 
 ### Signal Operators / Radio Ops
 

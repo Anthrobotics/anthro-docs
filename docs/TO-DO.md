@@ -1,8 +1,12 @@
 # TO-DO
 
-A list of tasks yet to be started, ongoing, and completed.
+A list of tasks yet to be started, in-progress, and completed.
+
+Tasks will be tracked in more detail on GitHub. This page is updated to reflect the overall states of tasks.
 
 You can find your team's respective tasks in each section. Feel free to assist other teams with their tasks wherever you can. *Many hands make light work*.
+
+*Note: This list is by no means, finalized. Tasks will be added, removed, and reordered on a rolling basis.*
 
 **Guide** 
 

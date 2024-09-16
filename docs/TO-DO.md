@@ -27,11 +27,36 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Build arms
 - [ ] Design torso
 - [ ] Build torso
-- [ ] Design endoskeletal head
+- [ ] Design endo head
 - [ ] Build endo head
 - [ ] Design tail
 - [ ] Build tail
+- [ ] Export assemblies to URDF
 
 ### Software
 
+- [ ] Walking / gait controller
+- [ ] Implement MPC
+- [ ] BMS controller firmware
+- [ ] Translate URDF into Gazebo
+- [ ] Translate URDF into MuJoCo
+- [ ] Web interface for URDF > similar to K-Scale's 
+- [ ] HMI for issuing commands (phone app or GUI)
+- [ ] Integrate sensors into controller
+
 ### AI & ML
+
+- [ ] Implement MPC
+- [ ] Implement VLM
+- [ ] Develop SI agent components: 
+    * [ ] Personality
+    * [ ] Long-term memory
+    * [ ] Short-term memory
+    * [ ] Emotional intelligence
+    * [ ] Language interface
+    * [ ] Auto conceptualization
+    * [ ] Agent self awareness
+- [ ] Determine which uncensored models are suitable
+- [ ] Determine training cluster requirements
+- [ ] Determine edge computer requirements
+- [ ] Source suitable edge computers for deployable agents

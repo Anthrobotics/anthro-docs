@@ -60,3 +60,14 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Determine training cluster requirements
 - [ ] Determine edge computer requirements
 - [ ] Source suitable edge computers for deployable agents
+
+### Electronics
+
+- [ ] Design, build and test BMS
+- [ ] Design, build and test PDB
+- [ ] Design, build and test hot-swap battery tray
+- [ ] Design, build and test EtherCAT BLDC controller
+- [ ] Design, build and test soft nerve sensors
+- [ ] Design, build and test carrier board for SI edge computers
+- [ ] Run and wire data buses 
+- [ ] Run and wire nervous system

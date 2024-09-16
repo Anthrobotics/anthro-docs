@@ -8,11 +8,8 @@ You can find your team's respective tasks in each section. Feel free to assist o
 
 ### Hardware
 
-#### To be started
-
-#### In-progress
-
-#### Completed
+- [ ] Design tendon-driven artificial muscles
+- [X] Identify potential torque motors for use with muscles
 
 ### Software
 

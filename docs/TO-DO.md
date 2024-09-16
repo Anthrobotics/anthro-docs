@@ -75,6 +75,15 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Develop ablative coatings
 - [ ] Develop microfluidic systems to augment IMUs
 
+### motor-systems
+
+- [ ] Source BLDC winding machines
+- [ ] Source wire EDM tooling
+- [ ] Source critical motor components (wiring, magnets)
+- [ ] Design and develop BLDC torque motors in-house
+- [ ] Build and test prototype BLDC torque motors
+- [ ] Scale to produce torque motors in-house
+
 ## Aesthetics
 
 ### prosthetics 

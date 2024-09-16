@@ -79,6 +79,14 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Develop ablative coatings
 - [ ] Develop microfluidic systems to augment IMUs
 
+### electrical
+
+- [ ] Source LiFePO4 cells for custom battery
+- [ ] Design, build and test custom hot-swap battery
+- [ ] Integrate custom BMS into battery pack design
+- [ ] Wire power distribution system 
+- [ ] Develop a deployable cable tether for charging the battery without removing it (built into the tail, or coiled inside the body)
+
 ### motor-systems
 
 - [ ] Source BLDC winding machines

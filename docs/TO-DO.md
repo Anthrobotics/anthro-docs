@@ -14,13 +14,13 @@ You can find your team's respective tasks in each section. Feel free to assist o
 
 ### hardware
 
-- [ ] Design tendon-driven artificial muscles
+- [ ] ***Design tendon-driven artificial muscles***
 - [ ] Build and test artificial muscles
 - [X] Identify potential torque motors for use with muscles
-- [ ] Procure torque motors
+- [ ] Procure torque motors in volume
 - [ ] Design, build and test plantigrade legs
-- [ ] Design, build and test digitigrade legs
-- [ ] Design, build and test hands
+- [ ] ***Design, build and test digitigrade legs***
+- [ ] ***Design, build and test dexterous hands***
 - [ ] Design, build and test arms
 - [ ] Design, build and test torso
 - [ ] Design, build and test endo head
@@ -36,8 +36,9 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Translate URDF into MuJoCo
 - [ ] Web interface for URDF > similar to K-Scale's 
 - [ ] HMI for issuing commands (phone app or GUI)
-- [ ] Integrate sensors into controller
+- [ ] Integrate sensors into gait controller
 - [ ] Pick a primary language to use (K-scale's KLang is recommended)
+- [ ] Integrate teleop control (VR, teleop rig)
 
 ### SI
 

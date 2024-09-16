@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the Anthro Docs
+Welcome to the Anthro Docs site.
 
 Here you will find documentation on our projects, how to get involved, and more.
 

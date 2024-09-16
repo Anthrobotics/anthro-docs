@@ -9,9 +9,22 @@ You can find your team's respective tasks in each section. Feel free to assist o
 ### Hardware
 
 - [ ] Design tendon-driven artificial muscles
+- [ ] Build artificial muscles
 - [X] Identify potential torque motors for use with muscles
 - [ ] Design plantigrade legs
-- [ ] Design digitigrade legs
+- [ ] Build plantigrade legs
+- [-] Design digitigrade legs
+- [ ] Build digitigrade legs
+- [ ] Design hands
+- [ ] Build hands
+- [ ] Design arms
+- [ ] Build arms
+- [ ] Design torso
+- [ ] Build torso
+- [ ] Design endoskeletal head
+- [ ] Build endo head
+- [ ] Design tail
+- [ ] Build tail
 
 ### Software
 

@@ -60,13 +60,14 @@ You can find your team's respective tasks in each section. Feel free to assist o
 ### electronics
 
 - [ ] Design, build and test BMS
-- [ ] Design, build and test PDB
+- [ ] ***Design, build and test PDB***
 - [ ] Design, build and test hot-swap battery tray
 - [ ] Design, build and test EtherCAT BLDC controller
 - [ ] Design, build and test soft nerve sensors
+- [ ] Embed prosthetic components with soft electronics and tactile sensors
 - [ ] Design, build and test carrier board for SI edge computers
 - [ ] Run and wire data buses 
-- [ ] Run and wire nervous system
+- [ ] Run and wire tactile system to coverings
 
 ### nano
 
@@ -79,7 +80,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 ### prosthetics 
 
 - [ ] Design and develop anatomically correct prosthetic components 
-- [ ] Embed prosthetic components with soft electronics
+- [ ] Embed prosthetic components with soft electronics and tactile sensors
 - [ ] Integrate prosthetic components into endoskeleton hardware
 
 ### coverings
@@ -99,7 +100,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 ### art 
 
 - [ ] Create emotes and stickers for Discord server
-- [ ] Create anthro mascot for the project, and conoany mascot
+- [ ] Create anthro mascot for the project, and company mascot
 - [ ] Rework logo for the anthro project 
 - [ ] Concept artwork to promote the project
 - [ ] References for initial "cast" of robot characters to promote the project (to be built as IRL robots)
@@ -130,3 +131,31 @@ You can find your team's respective tasks in each section. Feel free to assist o
 
 - [ ] Work on a comprehensive rebrand that captures the scope and feel of the project
 
+## Legal
+
+### compliance
+
+- [ ] Ensure ITAR compliance is met
+- [ ] Ensure privacy of users is maintained and protected, especially when dealing with 3rd-party services
+- [ ] Ensure quality control measures are met (ISO9001, RoHS)
+
+### import-export
+
+- [ ] Broker the export of anthros to Europe from North America 
+
+## Defense
+
+### armorers
+- [ ] Design an armored covering system for the endoskeleton
+- [ ] Source manufacturing of armored coverings in both Canada and the US
+- [ ] Test the durability of armored coverings against various threats (ballistic, directed-energy, etc)
+
+### signals
+- [ ] Integrate multiband communication systems 
+- [ ] Ensure baseline encryption is provided (AES-256)
+- [ ] Work with UAS techs to integrate long-range telemetry and piloted control of anthros
+- [ ] Develop mesh-network for fallback control of anthros
+
+### UAS
+- [ ] Work with signals techs to integrate long-range telemetry and piloted control of anthros
+- [ ] Develop mesh-network fallbacks with signals techs

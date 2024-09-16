@@ -103,6 +103,7 @@ You can find your team's respective tasks in each section. Feel free to assist o
 - [ ] Design and develop anatomically correct prosthetic components 
 - [ ] Embed prosthetic components with soft electronics and tactile sensors
 - [ ] Integrate prosthetic components into endoskeleton hardware
+- [ ] Integrate animation / emotion display into faceplates (facial expressions)
 - [ ] Design exoskeleton components with the hardware team using artificial muscles 
 
 ### coverings

@@ -59,5 +59,9 @@ This numbering scheme can also be applied to COTS components not manufactured in
 - AAAAA is the name of the COTS component
 - BBBBB is the model of the COTS component (as per the manufacturer)
 - CCCCC is the parent assembly (no change from above)
-- YYYYMMDD is the date of purchase for the COTS component
+- YYYYMMDD is the date the COTS component was physically inspected for serviceability
 - ZZZZ is the revision of the COTS component (if applicable)
+
+Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision 3. The part record would be:
+
+**MTRBLDCNOFRAME-RI115PH-TORSOASSY-20250415-0003**

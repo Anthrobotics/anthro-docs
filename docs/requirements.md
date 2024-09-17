@@ -15,7 +15,7 @@ In this section, we cover the requirements set out for the development, building
 - ***Everything shall be designed using software that is***:
     - open-source, and free for commercial use; or is
     - licensed for commercial use.
-- Hardware design software must support assemblies.
+- ***Hardware design software must support assemblies***.
 Examples of recommended software for hardware design includes:
     - Onshape
     - FreeCAD

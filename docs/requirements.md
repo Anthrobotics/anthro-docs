@@ -11,7 +11,7 @@ In this section, we cover the requirements set out for the development, building
 ## Design 
 
 - ***They must be musculoskeletal, safe, and compliant***. Robots with high-inertia designs are dangerous, and generally heavier. Humans evolved to have a great musculoskeletal system. Anthros will have them too.
-- ***They must be customizable to take on any anthropomorphic appearance***. Too many humanoid robots are boring, and lack soul and character. Anthros will be unique and infinitely varied in appearance, personality and identity. Nothing is off the table here - from classic humanoid robot designs, to furry characters - all will be made possible.
+- ***They must be customizable to take on any anthropomorphic appearance***. Too many humanoid robots are boring, and lack soul and character. Anthros will be unique and infinitely varied in appearance, personality and identity. Nothing is off the table here - from classic humanoid robot designs, to furry & scalie characters - all will be made possible.
 - Everything shall be designed using software that is:
     - open-source, and free for commercial use; or is
     - licensed for commercial use.
@@ -27,3 +27,15 @@ Onshape is what we use, primarily due to it's seamless integration with the exte
 - ***Production must be scalable through added 3D-printing, laser cutting, and CNC machining capabilities.*** These additive and subtractive manufacturing methods are always improving in quality while decreasing in cost. Therefore, they provide us an excellent avenue for scaling commercial in-house production of anthros, while allowing small fabs and hobbyists to keep pace.
 - ***Empower small fabs to produce anthros (under license)***. Using accessible tooling and a stable supply of core components from approved vendors will allow for smaller fabs and companies to start producing anthros. Licensing details will be worked out, but will ultimately be favored in benefiting the smaller fab, and help generate a wider selection of anthros for consumers to choose from. This will be a key factor in accelerating distrubuted and democratized manufacturing of humanoids.
 - ***Moving to full vertical integration will be a gradual but constant process***. Achieving vertically integrated production of anthros will give us full control and security over our supply chain and quality. This will take time, and therefore, we must take steps to build toward this. Every year, we must produce more critical components in-house, starting with artificial muscles.
+
+## Distribution 
+
+- ***Files will be available on GitHub***. This ties into accessibility, but also for version control, release management, issue tracking, and more.
+- ***Anthros will be sold through our webstore***. We will also sell through other online marketplaces, including the K-Scale Labs online store. As other 3rd-party fabs are stood up, they can also sell their custom anthros (under license).
+- ***Anthros sold outside US/CAN must be ITAR compliant***. Some features may have to be removed for sale to the EU and other countries.
+
+## Version Control
+
+- ***Tracking for versions shall be simple: version X.X or vX.X***. Rapid iteration will mean moving through versions very quickly. Moving from v1.0 to v2.0 of a component's design would only take 10 iterations. We will remain flexible and adaptive to rapid changes.
+- ***Naming conventions for components shall be a short, brief description of the item, with key elements separated by commas.*** For example, an M8  socket head bolt that is 40mm in length would be named "Bolt, M8, Socket Head, 40mm". 
+- ***Part numbering shall follow this scheme: 

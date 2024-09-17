@@ -50,9 +50,9 @@ Where:
 - YYYYMMDD is the Year/Month/Day of manufacture
 - ZZZZ is the part revision 
 
-Example: We have a mounting bracket for a drive motor, with the part number of 4, belonging to the torso assembly. It was manufactured on 12 May, 2025, and is revision 2. The part record would be:
+Example: We have a mounting bracket for a drive motor, with the part number of 4, belonging to the torso assembly. It was manufactured on 12 May, 2025, and is revision B. The part record would be:
 
-**MTRBRACKET-0004-TRSOASSY-20250412-0002**
+**MTRBRACKET-0004-TRSOASSY-20250412-B**
 
 This numbering scheme can also be applied to COTS components not manufactured in-house, where:
 
@@ -62,6 +62,6 @@ This numbering scheme can also be applied to COTS components not manufactured in
 - YYYYMMDD is the date the COTS component was physically inspected for serviceability
 - ZZZZ is the revision of the COTS component (if applicable)
 
-Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision 3. The part record would be:
+Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision A. The part record would be:
 
-**MTRBLDCNOFRAME-RI115PH-TORSOASSY-20250415-0003**
+**MTRBLDCNOFRAME-RI115PH-TORSOASSY-20250415-A**

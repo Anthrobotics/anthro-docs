@@ -12,7 +12,7 @@ In this section, we cover the requirements set out for the development, building
 
 - ***They must be musculoskeletal, safe, and compliant***. Robots with high-inertia designs are dangerous, and generally heavier. Humans evolved to have a great musculoskeletal system. Anthros will have them too.
 - ***They must be customizable to take on any anthropomorphic appearance***. Too many humanoid robots are boring, and lack soul and character. Anthros will be unique and infinitely varied in appearance, personality and identity. Nothing is off the table here - from classic humanoid robot designs, to furry & scalie characters - all will be made possible.
-- Everything shall be designed using software that is:
+- ***Everything shall be designed using software that is***:
     - open-source, and free for commercial use; or is
     - licensed for commercial use.
 - Hardware design software must support assemblies.
@@ -64,7 +64,7 @@ This record scheme can also be applied to COTS components not manufactured in-ho
 
 Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision A. The part record would be:
 
-**MTRBLDCNOFRAME-RI115PH-TORSOASSY-20250415-A**
+**MTRBLDCNOFRAME-RI115PH-TRSOASSY-20250415-A**
 
 ***Important notes for revision codes:***
 

@@ -65,3 +65,8 @@ This numbering scheme can also be applied to COTS components not manufactured in
 Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision A. The part record would be:
 
 **MTRBLDCNOFRAME-RI115PH-TORSOASSY-20250415-A**
+
+***Important notes for revision codes:****
+
+- Codes denoting prototype components not yet approved or ready for release will start with the uppercase letter **X** followed by a version number of the prototype.
+- Codes denoting components approved for production and release will be denoted with uppercase letters used in sequence, beginning with **A**. The letters **I, O, Q, X and Z** will be omitted. When the single letters have been exhausted, the revisions following "Y" shall be "AA", "AB" through"AY". Should "AA" to "AY" be exhausted, the next sequence shall be "BA", "BB", etc. Revision letters shall not exceed two characters. (as per ASME Y14.35M-1997, Section 5)

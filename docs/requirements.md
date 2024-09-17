@@ -40,7 +40,7 @@ Onshape is what we use, primarily due to it's seamless integration with the exte
 - ***Naming conventions for components shall be a short, brief description of the item, with key elements separated by commas.*** For example, an M8  socket head bolt that is 40mm in length would be named "Bolt, M8, Socket Head, 40mm". 
 - ***Part records of manufactured components shall follow this scheme:***
 
-**AAAAA-BBBBB-CCCCC-YYYYMMDD-ZZZZ**
+**AAAAA-BBBBB-CCCCC-YYYYMMDD-ZZ**
 
 Where:
 
@@ -48,7 +48,7 @@ Where:
 - BBBBB is the part number
 - CCCCC is the parent assembly
 - YYYYMMDD is the Year/Month/Day of manufacture
-- ZZZZ is the part revision 
+- ZZ is the part revision 
 
 Example: We have a mounting bracket for a drive motor, with the part number of 4, belonging to the torso assembly. It was manufactured on 12 May, 2025, and is revision B. The part record would be:
 
@@ -60,7 +60,7 @@ This record scheme can also be applied to COTS components not manufactured in-ho
 - BBBBB is the model of the COTS component (as per the manufacturer)
 - CCCCC is the parent assembly (no change from above)
 - YYYYMMDD is the date the COTS component was physically inspected for serviceability
-- ZZZZ is the revision of the COTS component (if applicable)
+- ZZ is the revision of the COTS component (if applicable)
 
 Example: A frameless brushless motor, model RI115-PH, belonging to the torso assembly. It was inspected on 15 May, 2025, passing inspection, and is revision A. The part record would be:
 

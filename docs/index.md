@@ -2,7 +2,7 @@
 
 Welcome to the Anthro Docs site.
 
-Here you will find documentation on our projects, how to get involved, and more.
+Here you will find documentation on our project, how to get involved, and more.
 
 Let's build the future of open-source robotics together.
 
@@ -16,4 +16,4 @@ If you want to help, please see the [contribution guide](contribution-guide.md) 
 
 ## Requirements 
 
-Humanoids must meet certain criteria to be considered an Anthro. See the [requirements](requirements.md) page for more details.
+We've built some guidelines for the project. See the [requirements](requirements.md) page for more details.

@@ -149,6 +149,8 @@ This work goes hand-in-hand with the hardware of the robots. Here are open posit
 
 ## Marketing and Social Media
 
+### Technical Writers
+
 ### Influencers
 
 ### Content Creators

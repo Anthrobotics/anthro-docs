@@ -37,7 +37,8 @@ Onshape is what we use, primarily due to it's seamless integration with the exte
 ## Version Control
 
 - ***Tracking for versions shall be simple: version X.X or vX.X***. Rapid iteration will mean moving through versions very quickly. Moving from v1.0 to v2.0 of a component's design would only take 10 iterations. We will remain flexible and adaptive to rapid changes.
-- ***Naming conventions for components shall be a short, brief description of the item, with key elements separated by commas.*** For example, an M8  socket head bolt that is 40mm in length would be named "Bolt, M8, Socket Head, 40mm". 
+- ***Naming conventions for components shall be a short, brief description of the item, with key elements separated by commas.*** For example, an M8  socket head bolt that is 40mm in length would be named "Bolt, M8, Socket Head, 40mm".
+- ***Some components will contain both a part record AND serial mumber***. This is for warranty  purposes, to aid in repairs, and to track high-value or controlled components.
 - ***Part records of manufactured components shall follow this scheme:***
 
 **AAAAA-BBBBB-CCCCC-YYYYMMDD-ZZ**
@@ -70,3 +71,23 @@ Example: A frameless brushless motor, model RI115-PH, belonging to the torso ass
 
 - Codes denoting prototype components not yet approved or ready for release will start with the uppercase letter **X** followed by a version number of the prototype.
 - Codes denoting components approved for production and release will be denoted with uppercase letters used in sequence, beginning with **A**. The letters **I, O, Q, X and Z** will be omitted. When the single letters have been exhausted, the revisions following **Y** shall be **AA, AB** through **AY**. Should **AA to AY** be exhausted, the next sequence shall be **BA, BB**, etc. Revision letters shall not exceed two characters. (as per ASME Y14.35M-1997, Section 5)
+
+- ***The following manufactured components entering production for release models will be serialized:
+    - **PCBs**
+    - **Compute Systems**
+    - **Power Supplies**
+    - **Motors**
+    - **Communication Devices (Radios, transceivers, etc.)**
+    - **Interface panels**
+    - **Hard / non-synthetic sensors**
+- ***Components matching the above descriptions that are manufactured in-house will be designated a serial number using the following scheme:***
+
+**X-YYYY-ZZZZZZZZ**
+
+Where:
+
+- X is the item code
+- Y is the year of production
+- Z is the item number, increasing in value by one for each item produced
+
+ 

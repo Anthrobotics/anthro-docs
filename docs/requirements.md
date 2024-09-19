@@ -4,8 +4,11 @@ In this section, we cover the requirements set out for the development, building
 
 ## Accessibility
 
-- ***All design files, software, firmware, and documentation must be open-source under CC BY-SA-NC 4.0 licenses***. This ensures that information remains accessible to the public, developers and authors are properly credited for contributions, and remixing of files and designs for personal, educational or research purposes is allowed.
-- ***Nothing can be patented***. Everything shall remain available for non-commercial  personal, educational or research purposes. Commercial licensing will be available. We will not patent any materials, nor allow patenting, as they stifle and inhibit freely accessible innovation for all. 
+- ***All design files, software, firmware, and documentation must be open-source under appropriate licenses***. This ensures that information remains accessible to the public, developers and authors are properly credited for contributions, and remixing of files and designs for personal, educational or research purposes is allowed. The licenses are as follows:
+    - **Hardware and Design Files** - **[CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.pdf)**
+    - **Software and Firmware** - **[MIT](https://opensource.org/license/mit)**
+    - **Documentation** - **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**
+- ***Nothing can be patented***. Everything shall remain available for personal, educational or research purposes. Commercial use will be allowed. Patents stifle and inhibit freely accessible innovation for all, and go against the very principles of open-source work. 
 - ***Project files, documentation, and downloads will all be served through GitHub.*** Alternate hosting locations for files will be determined.
 
 ## Design 
@@ -25,13 +28,13 @@ Onshape is what we use, primarily due to it's seamless integration with the exte
 
 - ***Anthros must be able to be built at home or in the garage***. Anthros will be the easiest and most affordable humanoids to build.
 - ***Production must be scalable through added 3D-printing, laser cutting, and CNC machining capabilities.*** These additive and subtractive manufacturing methods are always improving in quality while decreasing in cost. Therefore, they provide us an excellent avenue for scaling commercial in-house production of anthros, while allowing small fabs and hobbyists to keep pace.
-- ***Empower small fabs to produce anthros (under license)***. Using accessible tooling and a stable supply of core components from approved vendors will allow for smaller fabs and companies to start producing anthros. Licensing details will be worked out, but will ultimately be favored in benefiting the smaller fab, and help generate a wider selection of anthros for consumers to choose from. This will be a key factor in accelerating distrubuted and democratized manufacturing of humanoids.
+- ***Empower small fabs to produce anthros***. Using accessible tooling and a stable supply of core components from approved vendors will allow for smaller fabs and companies partnered with Anthrobotics to start producing anthros. This will help scale production, and help generate a wider selection of anthros for consumers to choose from. This will be a key factor in accelerating distrubuted and democratized manufacturing of humanoids.
 - ***Moving to full vertical integration will be a gradual but constant process***. Achieving vertically integrated production of anthros will give us full control and security over our supply chain and quality. This will take time, and therefore, we must take steps to build toward this. Every year, we must produce more critical components in-house, starting with artificial muscles.
 
 ## Distribution 
 
 - ***Files will be available on GitHub***. This ties into accessibility, but also for version control, release management, issue tracking, and more.
-- ***Anthros will be sold through our webstore***. We will also sell through other online marketplaces, including the K-Scale Labs online store. As other 3rd-party fabs are stood up, they can also sell their custom anthros (under license).
+- ***Anthros will be sold through our webstore***. We will also sell through other online marketplaces, including the K-Scale Labs online store. As other 3rd-party fabs partnered with Anthrobotics are stood up, they can also sell their custom anthros.
 - ***Anthros sold outside US/CAN must be ITAR compliant***. Some features may have to be removed for sale to the EU and other countries.
 
 ## Version Control
@@ -72,22 +75,23 @@ Example: A frameless brushless motor, model RI115-PH, belonging to the torso ass
 - Codes denoting prototype components not yet approved or ready for release will start with the uppercase letter **X** followed by a version number of the prototype.
 - Codes denoting components approved for production and release will be denoted with uppercase letters used in sequence, beginning with **A**. The letters **I, O, Q, X and Z** will be omitted. When the single letters have been exhausted, the revisions following **Y** shall be **AA, AB** through **AY**. Should **AA to AY** be exhausted, the next sequence shall be **BA, BB**, etc. Revision letters shall not exceed two characters. (as per ASME Y14.35M-1997, Section 5)
 
-- ***The following manufactured components entering production for release models will be serialized:
-    - **PCBs**
-    - **Compute Systems**
-    - **Power Supplies**
-    - **Motors**
-    - **Communication Devices (Radios, transceivers, etc.)**
-    - **Interface panels**
-    - **Hard / non-synthetic sensors**
+- ***The following manufactured components entering production for release models will be serialized based on class:
+    - **PCBs (A)**
+    - **Compute Systems (B)**
+    - **Power Supplies (C)**
+    - **Motors (D)**
+    - **Communication Devices (E)**
+    - **Sensors (F)**
 - ***Components matching the above descriptions that are manufactured in-house will be designated a serial number using the following scheme:***
 
 **X-YYYY-ZZZZZZZZ**
 
 Where:
 
-- X is the item code
+- X is the item class (see the list above)
 - Y is the year of production
 - Z is the item number, increasing in value by one for each item produced
+
+
 
  

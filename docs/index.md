@@ -4,7 +4,7 @@ Welcome to the Anthro Docs site.
 
 Here you will find documentation on our project, how to get involved, and more.
 
-Let's build the future of open-source robotics together.
+Let's build the fun & friendly future of open-source robotics together.
 
 See our [mission](mission.md), our [goals](goals.md), and [TO-DO list](TO-DO.md).
 

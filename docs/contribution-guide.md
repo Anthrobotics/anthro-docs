@@ -4,7 +4,7 @@ We are actively looking for people to get involved in the Anthro project. You do
 
 As our team grows, we will look at offering permanent / full-time job positions on our team for various roles.
 
-*Note: Roles and position descriptions will be updated on a rolling basis. If you see a role that you think is missing, let us know! :)*
+*Note: Roles and position descriptions will be updated on a rolling basis. If you see a role or task that you think is missing, let us know! :)*
 
 ## Robotics Development
 
@@ -24,7 +24,11 @@ Work involving the parts that make the robots function. Here are open positions 
 
 - Integrate mechanical subassemblies into the body 
 
-- Integrate and test direct drive actuators 
+- Integrate and test direct drive actuators
+
+- Design, build, and test synthetic muscles ith the aesthetics and drive systems teams
+
+- Help electronics and electrical teams with routing cabling through the body of the robot
 
 For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.
 
@@ -101,15 +105,11 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#hacker) page.
 
 **What you'll be doing:**
 
-- Develop ablative armor for electronic systems and structural components
+- Develop protective thin film coatings for electronics
 
 - Work on developing and building microfluidic systems 
 
-- Develop safe and power-dense batteries ICW the electrical team
-
-- Develop radiation-hardened shielding for electronics
-
-- Develop ceramo-plastic armor for humanoid robots 
+- Develop safe and power-dense batteries ICW the electrical teams
 
 For related ongoing tasks, see the [TO-DO](TO-DO.md#nano) page.
 

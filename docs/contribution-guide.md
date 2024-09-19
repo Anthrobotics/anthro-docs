@@ -133,7 +133,39 @@ For related ongoing tasks, see the [TO-DO](TO-DO.md#electronics) page.
 
 ### Electrical Engineers and Technologists
 
+***Experienced in electrical work or power engineering? We need your expertise!***
+
+**What you'll be doing:**
+
+- Design, build, and test lightweight LiFePO4 and LiPo batteries
+
+- Design, build, and test power distribution systems
+
+- Design PDBs alongside the electronics team
+
+- Wire DC power buses inside humanoid robots
+
+- Design a tethered tail charge cable alongside the aesthetics and electronics team
+
+- Design and build a charging dock for hot-swappable batteries
+
+- Design and build a hot-swap battery tray with the electronics team
+
+For related ongoing tasks, see the [TO-DO](TO-DO.md#electrical) page.
+
 ### Motor / Drive System Techs
+
+***Are you experienced in motor or actuator design? Want to build the world's safest and most capable robots? Join our team!***
+
+**What you'll be doing:**
+
+- Design, build, and test synthetic muscles with the hardware and aesthetics teams.
+
+- Source equipment for producing brushless DC motors
+
+- Design, build, and test rotary brushless DC motors
+
+- Design, build, and test linear brushless DC actuators
 
 ## Aesthetics and Appearance
 
@@ -157,28 +189,10 @@ This work goes hand-in-hand with the hardware of the robots. Here are open posit
 
 ### Brand Designers
 
-## Investors
-
-***We're raising!*** If you're a VC who shares our passion and vision, reach out to us.
-
-## Legal
-
-Folks that play an important role in making sure we stay by the books, while having fun.
+## Legal 
 
 ### Lawyers
 
 ### Export / Customs Experts
 
 ### Privacy Experts
-
-## Defense 
-
-Folks knowledgable in defense and aerospace, who can help make anthros robust and reliable. 
-
-### Drone / UAS operators
-
-### Drone / UAS techs
-
-### Signal Operators / Radio Ops
-
-### Electrical / Optical (EO) Techs

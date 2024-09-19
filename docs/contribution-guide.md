@@ -4,7 +4,7 @@ We are actively looking for people to get involved in the Anthro project. You do
 
 As our team grows, we will look at offering permanent / full-time job positions on our team for various roles.
 
-*Note: Roles and position descriptions will be updated on a rolling basis. :)*
+*Note: Roles and position descriptions will be updated on a rolling basis. If you see a role that you think is missing, let us know! :)*
 
 ## Robotics Development
 

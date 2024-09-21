@@ -66,8 +66,6 @@ For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Industrial Designers
 
-## Marketing & Social Media
-
 ### Technical Writers
 
 ### Influencers
@@ -75,8 +73,6 @@ For related ongoing tasks, see the [Tasks](tasks.md) page.
 ### Content Creators
 
 ### Brand Designers
-
-## Legal 
 
 ### Lawyers
 

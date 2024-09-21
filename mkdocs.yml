@@ -49,6 +49,37 @@ markdown_extensions:
   - pymdownx.betterem
   - attr_list
 
+nav:
+  - Home:
+    - index.md
+  - Getting Started: #Introduce the project
+    - Getting Started/0 Welcome.md #Welcome page for the project
+    - Getting Started/1 Roles & Positions.md
+    - Getting Started/2 Tasks.md
+  - Requirements: #Outline requirements for the project
+    - Requirements/0 Requirements And Guidelines Overview.md #Overview of requirements and guidelines 
+    - Requirements/1 Accessibility Requirements.md
+    - Requirements/2 Design Requirements.md
+    - Requirements/3 Hardware Requirements.md
+    - Requirements/4 Software Requirements.md
+    - Requirements/5 Synthetic Intelligence Requirements.md
+    - Requirements/6 Version Control.md
+  - Roadmap: #Roadmap of the project.
+    - Roadmap/0 Project Goals.md #Overview of the project's goals
+    - Roadmap/1 Project Scope.md
+    - Roadmap/2 Project Timeline.md
+  - Progress Tracker: #Tracker for various sections of the project
+    - Progress Tracker/0 Hardware Progress.md
+    - Progress Tracker/1 Software Progress.md
+    - Progress Tracker/2 Synthetic Intelligence Progress.md
+    - Progress Tracker/3 Design and Aesthetics Progress.md
+    - Progress Tracker/4 Media and Marketing Progress.md
+    - Progress Tracker/5 Recruitment Progress.md
+  - Links: #Links to relevant project pages
+    - Links/0 Links.md
+  - Contact: #contact information
+    - Contact/0 Contact.md
+
 
 extra:
   social:

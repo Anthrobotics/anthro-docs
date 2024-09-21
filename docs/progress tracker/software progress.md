@@ -25,3 +25,6 @@ Tasks will be tracked in more detail on GitHub. This page is updated to reflect 
 - [ ] Integrate sensors into gait controller
 - [ ] Pick a primary language to use (K-scale's KLang is recommended)
 - [ ] Integrate teleop control (VR, teleop rig)
+- [ ] Ensure baseline encryption is provided (AES-256)
+- [ ] Integrate long-range telemetry and piloted control of anthros
+- [ ] Develop mesh-network for fallback communication and control of anthros

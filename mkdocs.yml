@@ -50,8 +50,7 @@ markdown_extensions:
   - attr_list
 
 nav:
-  - Home:
-    - index.md
+  - Home: index.md
   - Getting Started: #Introduce the project
     - getting started/0 mission.md #Welcome page for the project
     - getting started/1 roles & positions.md

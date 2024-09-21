@@ -8,51 +8,51 @@ We are actively looking for people to get involved in the Anthro project. You do
 
 ### Hardware Engineers & Technologists
 
-***Experienced in mechanical engineering? Love working with mechanical systems and mechatronics? Join our hardware team!***
+***Those experienced in mechanical engineering, who love working with mechanical systems and mechatronics.***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#hardware) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Software Engineers & Technologists
 
-***Experienced in software engineering? Love working with software, firmware, and embedded systems? Join our software team!***
+***Those experienced in software engineering, who love working with software, firmware, and embedded systems.***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#software) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### AI & ML Engineers + Technologists
 
 ***Experienced in AI & ML research? Want to build embodied synthetic intelligence (SI)? Join our SI team!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#SI) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Roboticists
 
 ***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our team!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Hobbyists & Hackers
 
 ***Do you have experience in tinkering with mechatronics or robotics projects? Love hacking things? Love building and breaking things even more? Want to be part of the biggest project of your life? Join our team!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#hacker) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Nanosystems Engineers & Technologists 
 
 ***Have experience in the nanotechnology field and want to apply it to humanoid robotics? Join our nanosystems team!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#nano) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Electronics Engineers & Technologists
 
 ***Experienced in working with electronics? Familiar with PCB design and assembly? Join our electronics team!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#electronics) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Electrical Engineers & Technologists
 
 ***Experienced in electrical work or power engineering? We need your expertise!***
 
-For related ongoing tasks, see the [TO-DO](TO-DO.md#electrical) page.
+For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Motor & Drive System Techs
 

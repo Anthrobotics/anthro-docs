@@ -53,28 +53,28 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started: #Introduce the project
-    - getting started/0: mission.md #Welcome page for the project
-    - getting started/1: roles & positions.md
-    - getting started/2:  tasks.md
+    - Mission: getting started/mission.md #Welcome page for the project
+    - Roles & Positions: getting started/roles & positions.md
+    - Tasks:  getting started/tasks.md
   - Requirements: #Outline requirements for the project
-    - requirements/0: requirements and guidelines overview.md #Overview of requirements and guidelines 
-    - requirements/1: accessibility requirements.md
-    - requirements/2: design requirements.md
-    - requirements/3: hardware requirements.md
-    - requirements/4: software requirements.md
-    - requirements/5: synthetic intelligence requirements.md
-    - requirements/6: version control.md
+    - Overview: requirements/requirements and guidelines overview.md #Overview of requirements and guidelines 
+    - Accessibility: requirements/accessibility requirements.md
+    - Design: requirements/design requirements.md
+    - Hardware: requirements/hardware requirements.md
+    - Software: requirements/software requirements.md
+    - SI: requirements/synthetic intelligence requirements.md
+    - Version Control: requirements/version control.md
   - Roadmap: #Roadmap of the project.
-    - roadmap/0: project goals.md #Overview of the project's goals
-    - roadmap/1: project scope.md
-    - roadmap/2: project timeline.md
+    - Goals: roadmap/project goals.md #Overview of the project's goals
+    - Scope: roadmap/project scope.md
+    - Timeline: roadmap/project timeline.md
   - Progress Tracker: #Tracker for various sections of the project
-    - progress tracker/0: hardware progress.md
-    - progress tracker/1: software progress.md
-    - progress tracker/2: synthetic intelligence progress.md
-    - progress tracker/3: design and aesthetics progress.md
-    - progress tracker/4: media and marketing progress.md
-    - progress tracker/5: recruitment progress.md
+    - Hardware: progress tracker/hardware progress.md
+    - Software: progress tracker/software progress.md
+    - SI: progress tracker/synthetic intelligence progress.md
+    - Design & Aesthetics: progress tracker/design and aesthetics progress.md
+    - Media & Marketing: progress tracker/media and marketing progress.md
+    - Recruitment: progress tracker/recruitment progress.md
   - Links: links.md #Links to relevant project pages
   - Contact: contact.md #contact information
 

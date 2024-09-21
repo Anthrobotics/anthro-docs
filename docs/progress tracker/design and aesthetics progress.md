@@ -1,1 +1,1 @@
-# Design and Aesthetics Progress
+# Design & Aesthetics Progress

@@ -51,3 +51,5 @@ Tasks will be tracked in more detail on GitHub. This page is updated to reflect 
 - [ ] Design and develop BLDC torque motors in-house
 - [ ] Build and test prototype BLDC torque motors
 - [ ] Scale to produce torque motors in-house
+- [ ] Integrate multiband communication systems 
+

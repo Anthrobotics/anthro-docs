@@ -1,7 +1,5 @@
 # Roles and Positions
 
-# Contribution Guide
-
 We are actively looking for people to get involved in the Anthro project. You don't have to be experienced in robotics either - there's a role for everyone! As our team grows, we will look at offering permanent / full-time job positions on our team for various roles.
 
 *Note: Roles and position descriptions will be updated on a rolling basis. If you see a role or task that you think is missing, let us know! :)*

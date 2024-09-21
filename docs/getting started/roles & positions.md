@@ -8,55 +8,55 @@ We are actively looking for people to get involved in the Anthro project. You do
 
 ### Hardware Engineers & Technologists
 
-***Those experienced in mechanical engineering, who love working with mechanical systems and mechatronics.***
+***Those who are experienced in mechanical engineering, who love working with mechanical systems and mechatronics.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Software Engineers & Technologists
 
-***Those experienced in software engineering, who love working with software, firmware, and embedded systems.***
+***Those who are experienced in software engineering, who love working with software, firmware, and embedded systems.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### AI & ML Engineers + Technologists
 
-***Experienced in AI & ML research? Want to build embodied synthetic intelligence (SI)? Join our SI team!***
+***Those who are experienced in AI & ML research, who want to build true embodied synthetic intelligence (SI).***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Roboticists
 
-***Experienced in working with robots? Want to be part of building the next evolution in humanity? Join our team!***
+***Those experienced in working with robots, who want to take part in building the next step in human evolution.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Hobbyists & Hackers
 
-***Do you have experience in tinkering with mechatronics or robotics projects? Love hacking things? Love building and breaking things even more? Want to be part of the biggest project of your life? Join our team!***
+***Those who have experience in tinkering with mechatronics or robotics projects, and love hacking things.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Nanosystems Engineers & Technologists 
 
-***Have experience in the nanotechnology field and want to apply it to humanoid robotics? Join our nanosystems team!***
+***Those who have experience in the nanotechnology field and want to apply it to building cutting-edge humanoid robots.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Electronics Engineers & Technologists
 
-***Experienced in working with electronics? Familiar with PCB design and assembly? Join our electronics team!***
+***Those who are experienced in working with electronics, and are familiar with PCB design and assembly.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Electrical Engineers & Technologists
 
-***Experienced in electrical work or power engineering? We need your expertise!***
+***Those who are experienced in electrical work or power engineering.***
 
 For related ongoing tasks, see the [Tasks](tasks.md) page.
 
 ### Motor & Drive System Techs
 
-***Are you experienced in motor or actuator design? Want to build the world's safest and most capable robots? Join our team!***
+***Those that are experienced in motor or actuator design, and want to build the world's safest and most capable robots?***
 
 ### Sculptors 
 

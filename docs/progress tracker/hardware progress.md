@@ -1,5 +1,20 @@
 # Hardware Progress
 
+## Intro
+A list of ongoing hardware-related tasks yet to be started, in-progress, and completed.
+
+Tasks will be tracked in more detail on GitHub. This page is updated to reflect the overall states of tasks.
+
+*Note: This list is by no means, finalized. Tasks will be added, removed, and reordered on a rolling basis.*
+
+**Guide** 
+
+- [ ] Task not started
+- [ ] ***Task in progress***
+- [X] Task complete
+
+## Task progress
+
 - [ ] ***Design tendon-driven artificial muscles***
 - [ ] Build and test artificial muscles
 - [X] Identify potential torque motors for use with muscles

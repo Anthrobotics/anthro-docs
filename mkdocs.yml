@@ -53,7 +53,7 @@ nav:
   - Home:
     - index.md
   - Getting Started: #Introduce the project
-    - Getting Started/0 Welcome.md #Welcome page for the project
+    - Getting Started/0 Mission.md #Welcome page for the project
     - Getting Started/1 Roles & Positions.md
     - Getting Started/2 Tasks.md
   - Requirements: #Outline requirements for the project

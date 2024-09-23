@@ -4,11 +4,11 @@ This page lists all important and relevant links for the project including our [
 
 ## Files
 
-**[GitHub](github.com/anthrobotics)**
+**[GitHub](https://github.com/anthrobotics)**
 
 ## Community
 
-**[Discord Server](discord.gg/mcRB72rMyT)**
+**[Discord Server](https://discord.gg/mcRB72rMyT)**
 
 ## Social Media
 

@@ -11,14 +11,14 @@ Contact information for the project team.
 ## Project Leads
 
 **Ian Pritchard**
-
-**Comd, Anthro Lead Dev, Cofounder**
+***CEO, Comd.***
+**Anthro Lead Dev, Cofounder**
 
 **Email: [ian.pritchard@anthrobotics.ca](mailto:ian.pritchard@anthrobotics.ca)**
 
 **Evan Pritchard**
-
-**2IC, AnthroHand Lead Dev, Cofounder**
+***CTO, 2IC***
+**AnthroHand Lead Dev, Cofounder**
 
 **Email: [evan.pritchard@anthrobotics.ca](mailto:evan.pritchard@anthrobotics.ca)**
 

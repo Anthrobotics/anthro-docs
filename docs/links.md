@@ -1,6 +1,6 @@
 # Links
 
-This page lists all important and relevant links for the project including our [main website](https://anthrobotics.ca].
+This page lists all important and relevant links for the project including our [main website](https://anthrobotics.ca).
 
 ## Files
 

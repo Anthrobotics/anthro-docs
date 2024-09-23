@@ -16,5 +16,5 @@ Contact information for the project team.
 
 **Evan Pritchard**
 
-**Email: [evan.pritchard@anthrobotics.ca](mailto:evan.pritchard@anthrobotics.ca)
+**Email: [evan.pritchard@anthrobotics.ca](mailto:evan.pritchard@anthrobotics.ca)**
 

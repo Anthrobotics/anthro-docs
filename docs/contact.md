@@ -12,7 +12,7 @@ Contact information for the project team.
 
 ***Ian Pritchard, CEO / Comd.***
 
-**Anthro Lead Dev, Cofounder**
+**Anthroid Lead Dev, Cofounder**
 
 **Email: [ian.pritchard@anthrobotics.ca](mailto:ian.pritchard@anthrobotics.ca)**
 

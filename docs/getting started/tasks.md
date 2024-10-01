@@ -1,6 +1,6 @@
 # Tasks
 
-A (nonexhaustive) list of tasks for each role & position.
+A (nonexhaustive) list of tasks for each role & position. Tasks will be added, modified and removed as the project progresses.
 
 ### Hardware Engineers & Technologists
 
@@ -16,7 +16,7 @@ A (nonexhaustive) list of tasks for each role & position.
 
 - Integrate and test direct drive actuators
 
-- Design, build, and test synthetic muscles ith the aesthetics and drive systems teams
+- Design, build, and test synthetic muscles
 
 - Help electronics and electrical teams with routing cabling through the body of the robot
 
@@ -32,17 +32,17 @@ A (nonexhaustive) list of tasks for each role & position.
 
 - Develop GUIs and software-based HMIs for interfacing and interacting with robots
 
-- Develop embedded control systems ICW the electronics team
+- Develop embedded control systems
 
 ### AI & ML Engineers + Technologists
 
 **What you'll be doing:**
 
-- Develop policies for humanoid robots ICW the software team
+- Develop policies for humanoid robots
 
 - Work with the software team on MPC for humanoids
 
-- Develop, train, build and deploy distributed SI systems across hundreds of anthro nodes
+- Develop, train, build and deploy distributed SI systems across hundreds of anthroids
 
 - Develop, train, build and deploy open-source, uncensored and unrestricted SI
 
@@ -52,7 +52,7 @@ A (nonexhaustive) list of tasks for each role & position.
 
 - Offer expertise and knowledge in robotic systems
 
-- Develop robotic systems ICW the hardware and software teams
+- Develop robotic systems
 
 - Help mentor new junior team members in robotics development
 
@@ -78,7 +78,7 @@ A (nonexhaustive) list of tasks for each role & position.
 
 - Work on developing and building microfluidic systems 
 
-- Develop safe and power-dense batteries ICW the electrical teams
+- Develop safe and power-dense batteries
 
 ### Electronics Engineers & Technologists
 
@@ -106,17 +106,17 @@ A (nonexhaustive) list of tasks for each role & position.
 
 - Wire DC power buses inside humanoid robots
 
-- Design a tethered tail charge cable alongside the aesthetics and electronics team
+- Design a tethered tail charge cable
 
 - Design and build a charging dock for hot-swappable batteries
 
-- Design and build a hot-swap battery tray with the electronics team
+- Design and build a hot-swap battery tray
 
 ### Motor & Drive System Techs
 
 **What you'll be doing:**
 
-- Design, build, and test synthetic muscles with the hardware and aesthetics teams.
+- Design, build, and test synthetic muscles
 
 - Source equipment for producing brushless DC motors
 
@@ -126,24 +126,114 @@ A (nonexhaustive) list of tasks for each role & position.
 
 ### Sculptors 
 
+**What you'll be doing:**
+
+- Design 3D models for prosthetic and anatomical components
+
+- Cast prosthetic and anatomical components
+
+- Design, build and test artificial muscles
+
+- Integrate artificial muscles into facial features
+
 ### Prosthetic Makers & Techs
+
+**What you'll be doing:**
+
+- Design prosthetic and anatomical components
+
+- Build prosthetic and anatomical components
+
+- Ensure prosthetic and anatomical components are materially-safe around humans
+
+- Design, build and test artificial muscles
+
+- Integrate artificial muscles into facial features
 
 ### Fursuit Makers
 
+**What you'll be doing:**
+
+- Design 3D models for fursuit components to be directly integrated with robotic components
+
+- Design robotic tails, ears and other anatomical components
+
+- Build a form-fitting, modular fursuit
+
+- Integrate soft sensors with fursuit
+
+- Design suit to be made of varying synthetic materials (fur, scales, feathers)
+
 ### 2D & 3D Digital Artists
+
+**What you'll be doing:**
+
+- Design an Anthro character to represent the project and company (mascot)
+
+- Create 2D digital art for the mascot for use on social media, on websites, and in videos
+
+- Create 3D character model for the mascot for use in videos, virtual demos, and to demonstrate the anthroid customizer utility
+
+- Create concept art for anthroid designs
+
+- Help in creating a web-based customizer tool or utility for designing a custom anthroid character (to be made into a robot)
 
 ### Industrial Designers
 
+**What you'll be doing:**
+
+- Help in developing the design language for anthroids, based on thousands of existing anthro character designs
+
+- Ensure the design language lends itself to being customzed by the end-user
+
 ### Technical Writers
+
+**What you'll be doing:**
+
+- Write monthly updates for the project
+
+- Assist in documenting the project
+
+- Publish articles for the project on social media
+
+- Interview team members, and share their story 
 
 ### Influencers
 
+**What you'll be doing:**
+
+- Promote the project, and get people interested in humanoid robots
+
+- Help educate people on humanoid robots
+
 ### Content Creators
+
+**What you'll be doing:**
+
+- Produce, edit and publish videos for the project
+
+- Create social media updates for the project
 
 ### Brand Designers
 
+**What you'll be doing:**
+
+- Create a unified branding for the project and company
+
 ### Lawyers
+
+**What you'll be doing:**
+
+- Ensuring the company is protected
 
 ### Export / Customs Experts
 
+**What you'll be doing:**
+
+- Facilitate the export of Anthroids outside of North America
+
 ### Privacy Experts
+
+**What you'll be doing:**
+
+- Ensure compliance with privacy laws

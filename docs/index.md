@@ -2,7 +2,7 @@
 
 Welcome to the Anthro Docs site.
 
-Here you will find documentation on our Anthroid project, how to get involved, and more.
+Here you will find documentation on our Anthro project, how to get involved, and more.
 
 Let's build the fun & friendly future of open-source robotics together.
 

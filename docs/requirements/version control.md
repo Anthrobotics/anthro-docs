@@ -1,6 +1,6 @@
 # Version Control
 
-## Version Control
+## Information for late-stage prototypes and production-ready components
 
 - ***Tracking for versions shall be simple: version X.X or vX.X***. Rapid iteration will mean moving through versions very quickly. Moving from v1.0 to v2.0 of a component's design would only take 10 iterations. We will remain flexible and adaptive to rapid changes.
 - ***Naming conventions for components shall be a short, brief description of the item, with key elements separated by commas.*** For example, an M8  socket head bolt that is 40mm in length would be named "Bolt, M8, Socket Head, 40mm".

@@ -6,7 +6,7 @@ Here you will find documentation on our Anthro project, how to get involved, and
 
 Let's build the fun & friendly future of open-source robotics together.
 
-See our [mission](getting%20started/mission.md), our [goals](goals.md), and ongoing [tasks](progress%20tracker/hardware%20progress.md).
+See our [mission](getting%20started/mission.md), our [goals](roadmap/project%20goals.md), and ongoing [tasks](progress%20tracker/hardware%20progress.md).
 
 ## Contributing
 

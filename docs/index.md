@@ -14,6 +14,10 @@ We welcome you to join us on our endeavor of bringing embodied synthetic intelli
 
 If you want to help, please see the [Getting Started](getting%20started/roles%20%26%20positions.md) section to see how you can be part of the most important robotics project of our time.
 
+You can also join our [Discord Server](https://discord.gg/TZbvH7XvDy), where we discuss work on the project, have meetings, and more.
+
 ## Requirements 
 
 We've built some guidelines for the project. See the [requirements](requirements/requirements%20and%20guidelines%20overview.md) section for more details.
+
+*Please note, this site is being updated constantly, so please bear with us!*

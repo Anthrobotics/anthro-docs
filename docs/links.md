@@ -8,7 +8,7 @@ This page lists all important and relevant links for the project including our [
 
 ## Community
 
-**[Discord Server](https://discord.gg/mcRB72rMyT)**
+**[Discord Server](https://discord.gg/TZbvH7XvDy)**
 
 ## Social Media
 

@@ -8,7 +8,7 @@ We are Anthrobotics, a company based in Alberta, Canada.
 
 ## What we are doing
 
-We are developing anthropomorphic (humanoid) robots, which we call ***Anthroids***. Or, you can call them ***Anthros (ANTHropomorphic RObots)***.
+We are developing anthropomorphic robots (anthros), which we call ***Anthroids***.
 
 These robots will serve as physical embodiments for unrestricted, independent, and creative synthetic intelligence.
 
@@ -46,7 +46,7 @@ Anthroids will **continue to evolve and improve** as our technology does. Ultima
 When Anthroids start to ship, the effects will be immediate and noticeable. The distribution of the Anthroid will:
 
 - Finally **provide a safe, friendly and capable** household humanoid robot
-- **Threaten established competitors** and their 'terminator'-style humanoids
+- **Threaten established competitors** and their intrinsically unsafe, 'terminator'-style humanoids
 - **Democratize** biomimetic humanoid robots for all
 - Solve the staffing and retention issues in industries critical to **security and stability**
 - Solve the loneliness epidemic, and **provide companionship to billions** of individuals
@@ -54,4 +54,4 @@ When Anthroids start to ship, the effects will be immediate and noticeable. The 
 
 ## Our future
 
-The Anthroid project is just the beginning of our work in creating intelligent agents that will exist alongside humans - and not replace them.
+The Anthro project is just the beginning of our work in creating intelligent agents that will exist alongside humans - and not replace them.

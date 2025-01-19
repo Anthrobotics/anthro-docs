@@ -1,7 +1,7 @@
 site_name: Anthro Docs
 theme:
-  logo: anthro-logo-400x400.jpg
-  favicon: anthro-logo-400x400.jpg
+  logo: Anthrobotics-Logo-400x400.png
+  favicon: Anthrobotics-Logo-400x400.png
   name: material
   features:
   - navigation.tabs
@@ -87,4 +87,4 @@ extra:
       link: https://github.com/Anthrobotics
       name: Anthrobotics GitHub
   generator: false
-copyright: Copyright &copy; 2024 <a href="https://anthrobotics.ca" target="_blank" rel="noopener">Anthrobotics</a>
+copyright: Copyright &copy; 2025 <a href="https://anthrobotics.ca" target="_blank" rel="noopener">Anthrobotics</a>
